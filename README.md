@@ -1,5 +1,9 @@
 # Cargo 2000
 
+Proceso ETL del conjunto de datos de cargas y logistica Cargo 2000.
+
+**Fuente:** http://s-cube-network.eu/c2k
+
 ## Proceso de negocio: reenvío de cargas
 
 Hasta tres pequeños envíos de proveedores son consolidados y reenviados juntos a los clientes.
@@ -15,4 +19,4 @@ Los envíos se realizan por vía aérea y pueden tener tienen hasta tres tramos,
 * RCF — Arribo de carga. Es el trayecto entre aeropuertos desde la partida del vuelo hasta el almacén del aeropuerto de llegada. 
 * DLV — Carga entregada. Es el trayecto entre el almacén del aeropuerto y el centro de consolidación, o entre el almacén y el cliente, dependiendo de la etapa del proceso. Incluye el tiempo de almacenamiento.
 
-![Esquema del proceso de negocio](https://docs.google.com/drawings/d/e/2PACX-1vQXaZpw0TRQchyMoJ2VIO9VKVLoDgNvJiBKpr5qS6H3Yy9HJ9lr01x9Sxg9rM8y2cBNulLDfk3LeLJx/pub?w=456&h=359)
+![Esquema del proceso de negocio](https://docs.google.com/drawings/d/e/2PACX-1vQXaZpw0TRQchyMoJ2VIO9VKVLoDgNvJiBKpr5qS6H3Yy9HJ9lr01x9Sxg9rM8y2cBNulLDfk3LeLJx/pub?w=911&h=719)
